@@ -1,0 +1,3 @@
+require "mudanza"
+
+Mudanza::CLI.new.run
