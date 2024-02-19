@@ -10,7 +10,7 @@ GEM
   specs:
     colorize (0.8.1)
     mini_portile2 (2.4.0)
-    minitest (5.14.0)
+    minitest (5.15.0)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     rake (13.1.0)
@@ -23,7 +23,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  minitest (~> 5.0)
+  minitest (~> 5.15)
   mudanza!
   rake (~> 13.1)
 
